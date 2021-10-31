@@ -1,4 +1,5 @@
-hi clearsyntax reset
+hi clear
+syntax reset
 let g:colors_name = "test"
 set background=dark
 set t_Co=256
